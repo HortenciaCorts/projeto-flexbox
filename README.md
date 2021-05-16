@@ -5,10 +5,10 @@
 # Imagens do projeto
 
 ## Mobile
-![enter image description here](https://github.com/HortenciaCorts/projeto-flexbox/blob/main/gits/flexbox-mobile.gif?raw=true)
+![enter image description here](https://github.com/HortenciaCorts/projeto-flexbox/blob/main/gifs/flexbox-mobile.gif?raw=true)
 
 ## Tablet
-![enter image description here](https://github.com/HortenciaCorts/projeto-flexbox/blob/main/gits/flexbox-tablet.gif?raw=true)
+![enter image description here](https://github.com/HortenciaCorts/projeto-flexbox/blob/main/gifs/flexbox-tablet.gif?raw=true)
 
 ## Desktop
-![enter image description here](https://github.com/HortenciaCorts/projeto-flexbox/blob/main/gits/flexbox-desktop.gif?raw=true)
+![enter image description here](https://github.com/HortenciaCorts/projeto-flexbox/blob/main/gifs/flexbox-desktop.gif?raw=true)
